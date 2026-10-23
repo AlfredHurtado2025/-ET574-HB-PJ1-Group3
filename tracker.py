@@ -10,3 +10,9 @@ def add_session():
     Data.could[0].append(appName)
     Data.cloud[1].append(Minutes)
     Data.cloud[2].append(category)
+
+
+def view_all():
+    length = len(Data.cloud[1])
+    for level in range(0, length):
+        print("Section" + str(Data.cloud[level]))
