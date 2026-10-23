@@ -30,3 +30,4 @@ def view_summary():
     print(f"Max Minutes: {max_minutes}")
     print(f"Min Minutes: {min_minutes}")
     print(f"Average Minutes: {average_minutes}")
+    print()

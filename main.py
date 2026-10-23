@@ -9,6 +9,7 @@ while True:
     print(' 1. Add Screen Time Tracker!\n 2. view Summary\n 3. View All Session\n 4. Exit')
 
     choice = int(input("Enter Choice: "))
+    print()
 
     if choice == 1:
         tracker.add_session()
