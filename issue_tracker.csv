@@ -1,0 +1,9 @@
+ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+1,task A,887e4ed,closed,Phase I: Task A,Files cretaed,Alfred,Oct 23,Oct- 23,Main,Tracker, Issue tracker, and data added.
+2,task B,cd7f2c3,closed,Phase I: Task A,View all cretaed,Alfred,Oct 23,Oct- 23,View all added on tracker.
+3,task C,e790959,closed,Phase I: Task A,View summary cretaed,Alfred,Oct 23,Oct- 23,view summary done and fixing view summary issues.
+4,task C,c63234b,closed,Phase I: Task A,Corrections on main and Tracker,Alfred,Oct 23,Oct- 23,Small corection on Main and Tracker. View all wasn't showing.
+5,task C,f5ecfa1,closed,Phase I: Task A,Terminal visual fixes,Alfred,Oct 23,Oct- 23,small terminal visual fixes for readability.
+
+
+
